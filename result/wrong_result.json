@@ -1,0 +1,37 @@
+[
+     {
+          "content": "他主张逐步废除肯塔基州的奴隶制，**尽**管当时的政治形势让他放弃了这一立场。",
+          "predict": "jin4",
+          "reference": "jin3"
+     },
+     {
+          "content": "另一个例**子**更为夸张：某只鸟在两轮比赛中鸣叫的次数相同，之后人们竟发现笼子里放了一台光碟机。",
+          "predict": "zi3",
+          "reference": "zi5"
+     },
+     {
+          "content": "双辽境内除东辽河、西辽河等5条河流逶**迤**流过，还有中小型水库8座。",
+          "predict": "yi3",
+          "reference": "yi2"
+     },
+     {
+          "content": "增厚的副翼／**刹**车片的测试令人满意，于是轻木条又被重新安装到了副翼／刹车片和升降舵辅助翼上去。",
+          "predict": "cha4",
+          "reference": "sha1"
+     },
+     {
+          "content": "男性有时进行盆腔超声用于检查**膀**胱和前列腺的健康状况。",
+          "predict": "bang3",
+          "reference": "pang2"
+     },
+     {
+          "content": "永春榜舍龟、**咯**摊、麻佬等是当地的著名小吃。",
+          "predict": "luo4",
+          "reference": "ge1"
+     },
+     {
+          "content": "1964年11月，经**幢**的修复工作完成。",
+          "predict": "zhuang4",
+          "reference": "chuang2"
+     }
+]

@@ -1,0 +1,502 @@
+[
+     {
+          "sentence": "因此按照得点较高的**嵌**张听牌来解释。",
+          "predict": "qian4",
+          "groundtruth": "qian4"
+     },
+     {
+          "sentence": "郑季**翘**支持过电影《创业》的拍摄。",
+          "predict": "qiao4",
+          "groundtruth": "qiao4"
+     },
+     {
+          "sentence": "目前，日本麦当劳全面停售中国产鸡肉产品，**转**用泰国生产的鸡肉产品。",
+          "predict": "zhuan3",
+          "groundtruth": "zhuan3"
+     },
+     {
+          "sentence": "伊敏·司迪克忙与司机一起跳上车厢，将已烧得滚烫的油桶推下车，以避**免**油桶燃烧爆炸。",
+          "predict": "mian3",
+          "groundtruth": "mian3"
+     },
+     {
+          "sentence": "亦拜这次机会所赐，两艘太空船-{}-**只**需要用上12年的时间就能造访四个行星，而非一般的30年时间。",
+          "predict": "zhi3",
+          "groundtruth": "zhi3"
+     },
+     {
+          "sentence": "工期临近，一日小蛇到吴老头梦中致谢，并表示要报**答**吴氏父子的恩情。",
+          "predict": "da2",
+          "groundtruth": "da2"
+     },
+     {
+          "sentence": "相比之下，无翅亚纲生物是从一个还未进化出翅**膀**的原始昆虫族群演变过来的。",
+          "predict": "bang3",
+          "groundtruth": "bang3"
+     },
+     {
+          "sentence": "一些国防军成员确实从集中营和纳粹**大**屠杀中拯救了不少犹太人和非犹太人。",
+          "predict": "da4",
+          "groundtruth": "da4"
+     },
+     {
+          "sentence": "总面积13平方公里，人口3727人，人口密**度**286.",
+          "predict": "du4",
+          "groundtruth": "du4"
+     },
+     {
+          "sentence": "她第二次进入100米半决赛，与高寒、陈兆静、**肖**业华一同参加了接力赛预赛。",
+          "predict": "xiao1",
+          "groundtruth": "xiao1"
+     },
+     {
+          "sentence": "最后，霍斯陆和席琳被**埋**葬在了一起。",
+          "predict": "mai2",
+          "groundtruth": "mai2"
+     },
+     {
+          "sentence": "1866年，发生席卷全球的，四小行和**呵**加剌银行、汇隆银行都随之倒闭。",
+          "predict": "he1",
+          "groundtruth": "he1"
+     },
+     {
+          "sentence": "及后楚惠王即位，继续执行安邦定国、**伺**机发展的方针。",
+          "predict": "si4",
+          "groundtruth": "si4"
+     },
+     {
+          "sentence": "正常人每日随**尿**排出约0.",
+          "predict": "niao4",
+          "groundtruth": "niao4"
+     },
+     {
+          "sentence": "66亿美元，这也是西门子交通集团首次获得来自美国市场的机**车**订单。",
+          "predict": "che1",
+          "groundtruth": "che1"
+     },
+     {
+          "sentence": "其岩生于**瀑**布周围长满青苔的岩石表面。",
+          "predict": "pu4",
+          "groundtruth": "pu4"
+     },
+     {
+          "sentence": "灭绝设施也**藉**此获取运转所需的资金。",
+          "predict": "jie4",
+          "groundtruth": "jie4"
+     },
+     {
+          "sentence": "1929年，叶渭渠出生在法属印度支那西贡堤岸（今越南）的一个华人聚居区，籍贯广东省东**莞**市。",
+          "predict": "guan3",
+          "groundtruth": "guan3"
+     },
+     {
+          "sentence": "2004年2月，廖**俊**波升任邵武市副市长，分管工业。",
+          "predict": "jun4",
+          "groundtruth": "jun4"
+     },
+     {
+          "sentence": "毕业于合肥工业大学地质**系**，之后供职于东北有色地质勘探公司研究所、辽宁地质勘探公司，后供职于冶金部。",
+          "predict": "xi4",
+          "groundtruth": "xi4"
+     },
+     {
+          "sentence": "我们**看**似真有，乃是用“分别心”看，真相是‘当体即空’。",
+          "predict": "kan4",
+          "groundtruth": "kan4"
+     },
+     {
+          "sentence": "风暴接下来转**朝**西北方向移动，之后又转向北上，并在此期间逐渐弱化，于9月6日转变成温带气旋。",
+          "predict": "chao2",
+          "groundtruth": "chao2"
+     },
+     {
+          "sentence": "此次**炮**击中，其中一发炮弹击中了慧丰寺拉桑殿西南墙角，弹洞的裂纹延伸至拉桑殿屋顶。",
+          "predict": "pao4",
+          "groundtruth": "pao4"
+     },
+     {
+          "sentence": "沈阳国际展览中心是位于中国辽宁省**沈**阳市苏家屯区的一座现代化国际展览中心。",
+          "predict": "shen3",
+          "groundtruth": "shen3"
+     },
+     {
+          "sentence": "一些研究发现，尻**锯**脂鲤属这个属相较于其他三个食人鱼中的属来说同下锯脂鲤属的关系更加密切。",
+          "predict": "ju4",
+          "groundtruth": "ju4"
+     },
+     {
+          "sentence": "他主张逐步废除肯塔基州的奴隶制，**尽**管当时的政治形势让他放弃了这一立场。",
+          "predict": "jin4",
+          "groundtruth": "jin3"
+     },
+     {
+          "sentence": "在他看来，节目在主题展现上还过于温和**甚**至保守，导致剧情“索然无味”。",
+          "predict": "shen4",
+          "groundtruth": "shen4"
+     },
+     {
+          "sentence": "雨过天晴后，人们发现龙壁后的金泊仓被雷电**劈**开了两眼井，井水一苦一甜。",
+          "predict": "pi1",
+          "groundtruth": "pi1"
+     },
+     {
+          "sentence": "2006年起研究者开始使用链穿梭过程合成嵌段聚合物已成功合成了四嵌段的聚**合**物。",
+          "predict": "he2",
+          "groundtruth": "he2"
+     },
+     {
+          "sentence": "阿金资质平庸，一直过着平淡劳**碌**的生活，但生性乐观积极。",
+          "predict": "lu4",
+          "groundtruth": "lu4"
+     },
+     {
+          "sentence": "另一个例**子**更为夸张：某只鸟在两轮比赛中鸣叫的次数相同，之后人们竟发现笼子里放了一台光碟机。",
+          "predict": "zi3",
+          "groundtruth": "zi5"
+     },
+     {
+          "sentence": "同期的越南战场基本为美军主导同北方作战，南越军的地位日**渐**低微。",
+          "predict": "jian4",
+          "groundtruth": "jian4"
+     },
+     {
+          "sentence": "费洪学（），字巽来，**号**文江。",
+          "predict": "hao4",
+          "groundtruth": "hao4"
+     },
+     {
+          "sentence": "第二页为应急资料**页**，为持证人自己填写的个人信息处。",
+          "predict": "ye4",
+          "groundtruth": "ye4"
+     },
+     {
+          "sentence": "是年，西**禅**寺被日本飞机炸毁，仅存天王殿和禅堂两处。",
+          "predict": "chan2",
+          "groundtruth": "chan2"
+     },
+     {
+          "sentence": "《后汉书》有记载：“其王常欲通使于汉，而安息欲以汉**缯**彩与之交市，故遮阂不得自达”。",
+          "predict": "zeng1",
+          "groundtruth": "zeng1"
+     },
+     {
+          "sentence": "”，评其“制其兵，出奇应变，**奄**忽若神，无往不殄，虽曹公有所不逮焉”。",
+          "predict": "yan3",
+          "groundtruth": "yan3"
+     },
+     {
+          "sentence": "はだしで歩く**仆**を见て 「可哀想だね」と皆に",
+          "predict": "pu2",
+          "groundtruth": "pu2"
+     },
+     {
+          "sentence": "其中明伦堂为单檐歇山灰瓦顶，堂前有抱厦结构，作**勾**连搭顶，堂内采用减柱造法。",
+          "predict": "gou1",
+          "groundtruth": "gou1"
+     },
+     {
+          "sentence": "1831年（天保2年）先**番**和服部因淑；",
+          "predict": "fan1",
+          "groundtruth": "fan1"
+     },
+     {
+          "sentence": "从16世纪末到19世**纪**初的300多年间，平均每年有超过2万名的黑人奴隶从这里启程，被运往美洲。",
+          "predict": "ji4",
+          "groundtruth": "ji4"
+     },
+     {
+          "sentence": "史料记载，应天门始建于大业元年（605年），有东西两**阙**，时称“则天门”。",
+          "predict": "que4",
+          "groundtruth": "que4"
+     },
+     {
+          "sentence": "早年毕业于保定军校，曾经担任过江门市市长、**广**州市公安局局长、广东省政府参议员。",
+          "predict": "guang3",
+          "groundtruth": "guang3"
+     },
+     {
+          "sentence": "2012年2月26日因心脏**衰**竭在上海去世。",
+          "predict": "shuai1",
+          "groundtruth": "shuai1"
+     },
+     {
+          "sentence": "铸铜为柱，高数十丈，台顶置铜凤凰，因为其位于北**阙**内，与北阙内外对峙，又称“凤阙”。",
+          "predict": "que4",
+          "groundtruth": "que4"
+     },
+     {
+          "sentence": "一商人偷漏关税事露，以重金贿赂他求**免**。",
+          "predict": "mian3",
+          "groundtruth": "mian3"
+     },
+     {
+          "sentence": "他最优秀的作品包括《喧**哗**与骚动》、《押沙龙，押沙龙！》、《去吧，摩西》等。",
+          "predict": "hua2",
+          "groundtruth": "hua2"
+     },
+     {
+          "sentence": "3英寸**汞**柱）气压值。",
+          "predict": "gong3",
+          "groundtruth": "gong3"
+     },
+     {
+          "sentence": "女孩看见他**弄**皱了捡起来的花，便好心地给了他一枝新的，还有一枚硬币。",
+          "predict": "nong4",
+          "groundtruth": "nong4"
+     },
+     {
+          "sentence": "这些构造的不断扩大和塌陷，使河谷裂点不断向上游推移，最终形成了黄果树**瀑**布。",
+          "predict": "pu4",
+          "groundtruth": "pu4"
+     },
+     {
+          "sentence": "为确立党内指导思想，以及巩固全党思想的必要，中央政治局决定**召**开中国共产党全国代表会议。",
+          "predict": "zhao4",
+          "groundtruth": "zhao4"
+     },
+     {
+          "sentence": "天绿香，学名守宫木，又叫树仔菜、五指山野菜、减肥菜、泰国**枸**杞，为大戟科守宫木属植物。",
+          "predict": "gou3",
+          "groundtruth": "gou3"
+     },
+     {
+          "sentence": "是年，威尔士王**子**又带入两只藏獒，1928年之前只有少量藏獒被进口到英国和欧洲等地。",
+          "predict": "zi3",
+          "groundtruth": "zi3"
+     },
+     {
+          "sentence": "双辽境内除东辽河、西辽河等5条河流逶**迤**流过，还有中小型水库8座。",
+          "predict": "yi3",
+          "groundtruth": "yi2"
+     },
+     {
+          "sentence": "她被关在棺材里，被带到地下最后一个拉**撒**路池，以便仪式开始。",
+          "predict": "sa1",
+          "groundtruth": "sa1"
+     },
+     {
+          "sentence": "贾蔷挑拨宝玉小厮茗烟大打出手，最后以金荣被迫**磕**头道歉而告一段落。",
+          "predict": "ke1",
+          "groundtruth": "ke1"
+     },
+     {
+          "sentence": "明清时代，线描的插图大量**涌**现。",
+          "predict": "yong3",
+          "groundtruth": "yong3"
+     },
+     {
+          "sentence": "1936年1月，高岗被派到内蒙古三边地区，6月至10月任中共蒙古工作**委**员会负责人。",
+          "predict": "wei3",
+          "groundtruth": "wei3"
+     },
+     {
+          "sentence": "协议强化了资本充足率要求，并新增了关于流动性与**杠**杆比率的要求。",
+          "predict": "gang4",
+          "groundtruth": "gang4"
+     },
+     {
+          "sentence": "和预告中的评论相似，杂志在此**称**赞了动作、游戏性、精致的剧情和难度。",
+          "predict": "cheng1",
+          "groundtruth": "cheng1"
+     },
+     {
+          "sentence": "0米，建筑主体结构由钢筋**混**凝土组成，大跨度屋面采用网架结构体系。",
+          "predict": "hun4",
+          "groundtruth": "hun4"
+     },
+     {
+          "sentence": "他在巴黎接受了教育，后回到沙蒂永经营父亲的铁**厂**。",
+          "predict": "chang3",
+          "groundtruth": "chang3"
+     },
+     {
+          "sentence": "西安市后宰门小学，是陕西省示范小学，西安市一级小学，新城区**的**实验学校。",
+          "predict": "de5",
+          "groundtruth": "de5"
+     },
+     {
+          "sentence": "增厚的副翼／**刹**车片的测试令人满意，于是轻木条又被重新安装到了副翼／刹车片和升降舵辅助翼上去。",
+          "predict": "cha4",
+          "groundtruth": "sha1"
+     },
+     {
+          "sentence": "1982年7月23日，**汤**泉行宫被公布为河北省文物保护单位，类型为古建筑，历史年代为清代。",
+          "predict": "tang1",
+          "groundtruth": "tang1"
+     },
+     {
+          "sentence": "分布于印度布拉马普特拉河水系以及西藏雅鲁藏布江下游干支流等，多见于山溪或河流砾**石**间隙之间。",
+          "predict": "shi2",
+          "groundtruth": "shi2"
+     },
+     {
+          "sentence": "此外，也发现了球状奇异猪笼**草**及奇异猪笼草原变种的自然杂交种。",
+          "predict": "cao3",
+          "groundtruth": "cao3"
+     },
+     {
+          "sentence": "面积19200公**顷**。",
+          "predict": "qing3",
+          "groundtruth": "qing3"
+     },
+     {
+          "sentence": "**尿**素能非常有效的使蛋白质变性，尤其能非常有效地破坏非共价键结合的蛋白质。",
+          "predict": "niao4",
+          "groundtruth": "niao4"
+     },
+     {
+          "sentence": "除此之外，双方还讨论了共享水资源和如何改善供水**系**统等问题。",
+          "predict": "xi4",
+          "groundtruth": "xi4"
+     },
+     {
+          "sentence": "于是狭穗彦交给她一柄刀，要她**伺**机暗杀天皇。",
+          "predict": "si4",
+          "groundtruth": "si4"
+     },
+     {
+          "sentence": "依**瀑**布的外观和地形的构造，瀑布有多种分类：",
+          "predict": "pu4",
+          "groundtruth": "pu4"
+     },
+     {
+          "sentence": "1956年，改**称**合肥市第四中学。",
+          "predict": "cheng1",
+          "groundtruth": "cheng1"
+     },
+     {
+          "sentence": "在大约凌晨3点钟，波兰前总理教授被该地区的一名别动队成员**逮**捕。",
+          "predict": "dai4",
+          "groundtruth": "dai4"
+     },
+     {
+          "sentence": "男性有时进行盆腔超声用于检查**膀**胱和前列腺的健康状况。",
+          "predict": "bang3",
+          "groundtruth": "pang2"
+     },
+     {
+          "sentence": "永春榜舍龟、**咯**摊、麻佬等是当地的著名小吃。",
+          "predict": "luo4",
+          "groundtruth": "ge1"
+     },
+     {
+          "sentence": "11月4日，第一次**广**阳战斗。",
+          "predict": "guang3",
+          "groundtruth": "guang3"
+     },
+     {
+          "sentence": "而片仓却惊讶地发现助六其实是自己的亲生儿子这个事实，于是他打晕了助六，独自出门面对复**仇**者的刀刃。",
+          "predict": "chou2",
+          "groundtruth": "chou2"
+     },
+     {
+          "sentence": "薛珠是拜泉县**佃**民，毕业于黑龙江省城简易科。",
+          "predict": "dian4",
+          "groundtruth": "dian4"
+     },
+     {
+          "sentence": "小**叶**肉穗草（学名：）为野牡丹科肉穗草属下的一个种。",
+          "predict": "ye4",
+          "groundtruth": "ye4"
+     },
+     {
+          "sentence": "1964年11月，经**幢**的修复工作完成。",
+          "predict": "zhuang4",
+          "groundtruth": "chuang2"
+     },
+     {
+          "sentence": "另一个**崭**新的理念是新式城市体系的建立——由皇帝和本地公爵共同完成。",
+          "predict": "zhan3",
+          "groundtruth": "zhan3"
+     },
+     {
+          "sentence": "作为一个具有亲水性的大分子，万古霉素很**难**穿过肠壁的绒毛细胞细胞膜。",
+          "predict": "nan2",
+          "groundtruth": "nan2"
+     },
+     {
+          "sentence": "2013年12月28日，天津南站配套**的**地铁3号线延长线开通。",
+          "predict": "de5",
+          "groundtruth": "de5"
+     },
+     {
+          "sentence": "19亿个**疟**疾病例，导致66万人死亡，不过另有估计全球重症疟疾病例有3.",
+          "predict": "nu:e4",
+          "groundtruth": "nu:e4"
+     },
+     {
+          "sentence": "1950年5月9日，中法大学药科并入上海医学院药科，林国**镐**出任药科主任。",
+          "predict": "hao4",
+          "groundtruth": "hao4"
+     },
+     {
+          "sentence": "黑尔让普罗克托出庭作证，然后接着质问伊丽莎白以确认她是**否**真的信奉巫术。",
+          "predict": "fou3",
+          "groundtruth": "fou3"
+     },
+     {
+          "sentence": "由于这些语句和图片十分搞笑，近几年大量传播，流行于贴**吧**和微博等网站。",
+          "predict": "ba1",
+          "groundtruth": "ba1"
+     },
+     {
+          "sentence": "将作大匠孔融听**说**后，连朝服都来不及穿就，就面见曹操说：“杨公四世清德，海内外共同赡仰。",
+          "predict": "shuo1",
+          "groundtruth": "shuo1"
+     },
+     {
+          "sentence": "“啊郎赫赫**呢**哪”的呼唤与紧接着的回声模仿，实虚相间，使人感到晨曦未晞。",
+          "predict": "ne5",
+          "groundtruth": "ne5"
+     },
+     {
+          "sentence": "两年后，权辑转**会**至浦项制铁足球俱乐部。",
+          "predict": "hui4",
+          "groundtruth": "hui4"
+     },
+     {
+          "sentence": "**雨**果对废除死刑的呼吁国际知名。",
+          "predict": "yu3",
+          "groundtruth": "yu3"
+     },
+     {
+          "sentence": "洪水造成水质大幅下降，流**量**急剧上升，对许多生态系统构成不利影响。",
+          "predict": "liang4",
+          "groundtruth": "liang4"
+     },
+     {
+          "sentence": "2015年8月，主播小智称他的直播间观看人数存在虚**假**成分，并称是平台所为。",
+          "predict": "jia3",
+          "groundtruth": "jia3"
+     },
+     {
+          "sentence": "以这样的逻辑看来，不免让人有了庄子类似的想法，怀疑起真实世界是**否**那么的真实了。",
+          "predict": "fou3",
+          "groundtruth": "fou3"
+     },
+     {
+          "sentence": "春秋之义，人臣无将将则必诛，大宝**岂**人可妄行窥伺者耶。",
+          "predict": "qi3",
+          "groundtruth": "qi3"
+     },
+     {
+          "sentence": "并建议使用希**腊**字母τ来代替π。",
+          "predict": "la4",
+          "groundtruth": "la4"
+     },
+     {
+          "sentence": "该国际通用识别编码与许多国家的本国识**别**码相一致。",
+          "predict": "bie2",
+          "groundtruth": "bie2"
+     },
+     {
+          "sentence": "西南风向的风切变令风暴的风速没能超过每小时75公里，不过风切变和登陆都没有明显打乱气**旋**的组织结构。",
+          "predict": "xuan2",
+          "groundtruth": "xuan2"
+     },
+     {
+          "sentence": "传统意义上讲，把苹果榨成汁需要把甜草或**纤**维布放在果渣之间。",
+          "predict": "xian1",
+          "groundtruth": "xian1"
+     }
+]
