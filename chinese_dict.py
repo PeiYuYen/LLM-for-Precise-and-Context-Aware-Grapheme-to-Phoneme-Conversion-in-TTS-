@@ -35,7 +35,7 @@ def dataset_prepocessing():
         json.dump(data, f, ensure_ascii=False, indent=4)  
 
 def extract_character_data(polyphone):
-    df = pd.read_csv('dictionary_zdic_test1.csv')
+    df = pd.read_csv('dictionary_zdic_v2preview.csv')
     filtered_df = df[df['character'] == polyphone]
     return filtered_df
 
@@ -97,30 +97,44 @@ def map_part_of_speech(polyphone):
 #     dict_prompt = output + f"\n句子如下：\n{sentence}"
 #     return dict_prompt
 
-def extract_sentences(text):
-    """提取 '如:' 後的完整句子，直到 '。' 為止，若無則返回原始內容"""
-    pattern = r'如:(.*?。)'
-    matches = re.findall(pattern, text)
-    return "; ".join(matches) if matches else text  # 若匹配多個，則用分號連接
+def example_sentences(data, target_label, polyphone):
+    sentences = [
+        item["sentence"] for item in data 
+        if item["label"] == target_label and polyphone in item["sentence"]
+    ]
+    return "\n".join(sentences[:5]) if sentences else "無對應句子"
 
 #prompt2    
 def create_dict_prompt(polyphone, sentence):
     output = f"多音字: {polyphone}，有多个读音:\n"
+    df = pd.read_csv("polyphone_list.csv", names=["Character", "Pinyin"])
+    most_common = df[df["Character"] == polyphone]["Pinyin"].values[0]
+    # output = f"多音字: {polyphone}，其中最常使用的為 {most_common}，供以參考。\n有多个读音 : \n"
+
     df_character_mapped = map_part_of_speech(polyphone)
     grouped = df_character_mapped.groupby("pinyin")
-    
+
     df = pd.read_csv("train_pinyin_ratio.csv")
     filtered_df = df[df['char'] == polyphone]
-    
+
+    with open('train_data.json', 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
     for pinyin, group in grouped:
         # output += f"{pinyin}"
         for _, ratio_row in filtered_df.iterrows():
             if ratio_row['pinyin'] == pinyin:
                 output += f"{pinyin}，漢語拼音出現機率為：{ratio_row['ratio']}\n"
+                # output += f"{pinyin}"
+                # if pinyin == most_common:
+                #     output += " (這是最常見的读音)\n" 
+                # else:
+                #     output += "\n"
                 for _, row in group.iterrows():
                     output += f"[{row['part_of_speech']}]\n"
-                    # row['definition'] = extract_sentences(row['definition'])
                     # output += f"[{row['part_of_speech']}]   {row['definition']}\n"
+                    # output += f"[{row['part_of_speech']}] "
+                output += f"example: {example_sentences(data, pinyin, polyphone)}\n"
             # else:
             #     output += f"{ratio_row['pinyin']}，，漢語拼音出現機率為：{ratio_row['ratio']}"
             
@@ -132,10 +146,13 @@ def create_dict_prompt(polyphone, sentence):
 if __name__ == "__main__":
     # sentence = "**嗯**，我的名字是邓月薇，我是11号航班上的3号空服员。" # in cpp only
     # sentence = "他认为哲学的目的不在于埋**头**苦究“有时间性的瞬即消失的假象”，而是去追求现有事物中永恒的东西。" # some pinyin in cpp 
-    #sentence = "西南风向的风切变令风暴的风速没能超过每小时75公里，不过风切变和登陆都没有明显打乱气**旋**的组织结构。" # both
-    sentence = "天**姥**山得名于“王母”。"
-    # sentence = "莘庄耶稣堂位于中国上海市闵行区莘庄镇**莘**浜路551号莘庄公园西侧，为一座基督新教教堂。"
-    #sentence = "短片获得了非常**正**面的评价。"
+    # sentence = "西南风向的风切变令风暴的风速没能超过每小时75公里，不过风切变和登陆都没有明显打乱气**旋**的组织结构。" # both
+    # sentence = "1934年，玛莉安不幸因**疟**疾去世。"
+    #sentence = "第二天，卡洛塔死在家中，而波洛在却她的包里发现了她化妆成简所需要的**假**发等物品。"
+    # sentence = "义成碶位于北仑区戚家山街道**蔚**斗社区，长32米，宽5."
+    # sentence = "**蠡**测具有属地、数量、日期、祭祀等寓意。"
+    # sentence = "她被关在棺材里，被带到地下最后一个拉**撒**路池，以便仪式开始。"
+    sentence = "2013年12月28日，3号线工程在盘**蠡**路站举行动工仪式。"
     # sentence = "解放军攻占**凉**城县后，他留下工作。" # in dict only
     polyphone = sentence.split("**")[1]
     dict_prompt = create_dict_prompt(polyphone, sentence)
